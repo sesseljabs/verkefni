@@ -1,5 +1,4 @@
 # verkefni
-Sjöþúsundasta repositoryið mitt, núna fyrir alls kyns verkefni (hence the name)
 2
 This is the Asgardian
 refugee vessel Statesman.
